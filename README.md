@@ -14,6 +14,9 @@ I am a software development enthusiast. I have done some projects using JavaFX, 
 * HTML, CSS, JS
 * Tensorflow
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil018&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shakil018)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://Shakil018.github.io/)  
 
 
