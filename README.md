@@ -1,9 +1,15 @@
 - 👋 Hi, I’m Shakil from Bangladesh. I
 - 👀 I’m interested in ... Software development and Machine Learning
-- 🌱 I’m currently learning ... 
+
+## Skills and Experience
+* React, Node
+* Java, Python, C++, C, JavaScript
+* HTML, CSS, JS
+
+<!-- - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+ -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakil018)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
