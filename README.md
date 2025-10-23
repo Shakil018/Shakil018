@@ -21,7 +21,7 @@ Tools & Frameworks: TensorFlow, Pytorch, Lens, Jaeger, Postman, Git
 
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Shakil018">
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Shakil018"> -->
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil018&layout=compact">
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakil018)](https://github.com/anuraghazra/github-readme-stats)
