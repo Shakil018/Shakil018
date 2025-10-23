@@ -12,12 +12,12 @@ I graduated from the Department of Computer Science and Engineering, BUET, where
 During my undergraduate studies, I developed projects using JavaFX, Django, React, and Node.js, and conducted research on behavioral analysis and bot detection.
 
 
-## 💻 Technologies & Tools
-- **Backend & Cloud: .NET, ASP.NET Core, Node.js, Django, AWS, Docker, Kubernetes, RabbitMQ
-- **Frontend: Angular, React, JavaFX, HTML, CSS, JavaScript (ES6+)
-- **Databases: MSSQL, PostgreSQL, MongoDB
-- **Programming Languages: C#, Java, Python, C++, C, JavaScript
-- **Tools & Frameworks: TensorFlow, Pytorch, Lens, Jaeger, Postman, Git
+## Technologies & Tools
+- Backend & Cloud: .NET, ASP.NET Core, Node.js, Django, AWS, Docker, Kubernetes, RabbitMQ
+- Frontend: Angular, React, JavaFX, HTML, CSS, JavaScript (ES6+)
+- Databases: MSSQL, PostgreSQL, MongoDB
+- Programming Languages: C#, Java, Python, C++, C, JavaScript
+- Tools & Frameworks: TensorFlow, Pytorch, Lens, Jaeger, Postman, Git
 
 
 
