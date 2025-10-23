@@ -1,18 +1,24 @@
 ## Hi there 👋, my name is Shakil
-#### I am a final year CSE student at BUET 
+#### Software Development Engineer II at IQVIA 
 <!-- ![I am a final year CSE student at BUET ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
  -->
-- 👀 I am interested in Software development and Machine Learning
-- 🔭 I’m currently learning some machine learning topics.
+- 💼 I’m currently working at IQVIA (since June 2023) as a Software Development Engineer II.
+- 🚀 My work involves building scalable web applications using ASP.NET Core and Angular, deployed on AWS with Docker and Kubernetes.
+- 🔍 I’m particularly interested in scalable software architecture, distributed systems, systems and security, and machine learning.
+- 🎓 I plan to pursue graduate studies starting Fall 2026.
 
 ## More About Me
-I am a software development enthusiast. I have done some projects using JavaFX, DJango, React, NodeJs frameworks. 
+I graduated from the Department of Computer Science and Engineering, BUET, where I explored software development, machine learning, networking, systems & security.
+During my undergraduate studies, I developed projects using JavaFX, Django, React, and Node.js, and conducted research on behavioral analysis and bot detection.
 
-## Skills and Experience
-* React, Node
-* Java, Python, C++, C, JavaScript
-* HTML, CSS, JS
-* Tensorflow
+
+## 💻 Technologies & Tools
+Backend & Cloud: .NET, ASP.NET Core, Node.js, Django, AWS, Docker, Kubernetes, RabbitMQ
+Frontend: Angular, React, JavaFX, HTML, CSS, JavaScript (ES6+)
+Databases: MSSQL, PostgreSQL, MongoDB
+Programming Languages: C#, Java, Python, C++, C, JavaScript
+Tools & Frameworks: TensorFlow, Pytorch, Lens, Jaeger, Postman, Git
+
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Shakil018">
