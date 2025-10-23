@@ -13,11 +13,11 @@ During my undergraduate studies, I developed projects using JavaFX, Django, Reac
 
 
 ## 💻 Technologies & Tools
-Backend & Cloud: .NET, ASP.NET Core, Node.js, Django, AWS, Docker, Kubernetes, RabbitMQ
-Frontend: Angular, React, JavaFX, HTML, CSS, JavaScript (ES6+)
-Databases: MSSQL, PostgreSQL, MongoDB
-Programming Languages: C#, Java, Python, C++, C, JavaScript
-Tools & Frameworks: TensorFlow, Pytorch, Lens, Jaeger, Postman, Git
+- **Backend & Cloud: .NET, ASP.NET Core, Node.js, Django, AWS, Docker, Kubernetes, RabbitMQ
+- **Frontend: Angular, React, JavaFX, HTML, CSS, JavaScript (ES6+)
+- **Databases: MSSQL, PostgreSQL, MongoDB
+- **Programming Languages: C#, Java, Python, C++, C, JavaScript
+- **Tools & Frameworks: TensorFlow, Pytorch, Lens, Jaeger, Postman, Git
 
 
 
